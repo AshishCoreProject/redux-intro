@@ -1,5 +1,4 @@
 //1.creating a store
-
 const initialStateCustomer = {
   fullName: "",
   nationalID: "",
